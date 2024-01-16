@@ -1,3 +1,6 @@
+
+import com.fasterxml.jackson.databind.ObjectMapper;
+
 com.fasterxml.jackson.databind.ObjectMapper.readValue;
   "com.fasterxml.jackson.databind.ser.std.RawSerializer.<init>:void(java.lang.Class)",
   "com.fasterxml.jackson.databind.ser.std.RawSerializer.serialize:<unresolvedSignature>(3)",
