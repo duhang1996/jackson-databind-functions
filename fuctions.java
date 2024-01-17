@@ -4,6 +4,7 @@ public class TestCase {
         
     private void test() throws Exception {
            com.fasterxml.jackson.databind.ObjectMapper.readValue();
-            com.fasterxml.jackson.databind.ObjectMapper.readValues();
+           com.fasterxml.jackson.databind.ObjectMapper._readValue();
+           com.fasterxml.jackson.databind.ObjectMapper.readValues();
     }
 }
