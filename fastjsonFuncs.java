@@ -561,7 +561,7 @@ com.alibaba.fastjson.util.TypeUtils.intValue();
 com.alibaba.fastjson.JSONObject.getSqlDate();
 com.alibaba.fastjson.asm.ClassWriter.get();
 com.alibaba.fastjson.util.TypeUtils6 clazz118810 = new com.alibaba.fastjson.util.TypeUtils6();
-com.alibaba.fastjson.JSON.parseObject();
+com.alibaba.fastjson.JSON.parseObject("");
 com.alibaba.fastjson.parser.DefaultJSONParser.setContext();
 com.alibaba.fastjson.parser.deserializer.MapDeserializer.createMap();
 com.alibaba.fastjson.parser.ParserConfig.configFromPropety();
