@@ -1,6 +1,4 @@
 
-import junit.framework.TestCase;
-
 public class JacksonTest {
 
     public void test_0() throws Exception {
