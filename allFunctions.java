@@ -4757,7 +4757,7 @@ clazz284452.defaultValue();
 clazz284452.createInstance();
 clazz284452.checkAndFixAccess();
 clazz284452.canBeABeanType();
-clazz284452.access$100();
+clazz284452.access100();
 clazz284452._interfaces();
 clazz284452._getMetadata();
 clazz284452._addSuperTypes();
