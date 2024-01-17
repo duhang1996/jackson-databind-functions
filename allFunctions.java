@@ -1,4 +1,4 @@
-public class callers {
+public class allFunctions {
         
     private void test() throws Exception {
            com.fasterxml.jackson.databind.AbstractTypeResolver clazz4 = new com.fasterxml.jackson.databind.AbstractTypeResolver();
