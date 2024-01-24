@@ -7,6 +7,6 @@ public class RedisConfig{
 
     private void objectMapper() {
         ObjectMapper objectMapper = new ObjectMapper();
-        objectMapper.enableDefaultTyping();
+        objectMapper.enableDefaultTyping(null);
     }
 }
