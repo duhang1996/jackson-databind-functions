@@ -1,7 +1,7 @@
 import com.fasterxml.jackson.databind.ObjectMapper;
 public class allFunctions {
         
-    private void test() {
+    private void objectMapper() {
            com.fasterxml.jackson.databind.AbstractTypeResolver clazz4 = new com.fasterxml.jackson.databind.AbstractTypeResolver();
 clazz4.resolveAbstractType();
 clazz4.findTypeMapping();
