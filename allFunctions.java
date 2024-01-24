@@ -1,3 +1,5 @@
+import com.fasterxml.jackson.databind.ObjectMapper;
+
 public class allFunctions {
         
     private void test() throws Exception {
@@ -414,7 +416,7 @@ com.fasterxml.jackson.databind.Module clazz18531 = new com.fasterxml.jackson.dat
 clazz18531.version();
 clazz18531.getTypeId();
 clazz18531.getModuleName();
-com.fasterxml.jackson.databind.ObjectMapper clazz20327 = new com.fasterxml.jackson.databind.ObjectMapper();
+ObjectMapper clazz20327 = new ObjectMapper();
 clazz20327.writerWithView();
 clazz20327.writerWithType();
 clazz20327.writerWithDefaultPrettyPrinter();
