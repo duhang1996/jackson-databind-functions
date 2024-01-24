@@ -1,9 +1,12 @@
+
 import com.fasterxml.jackson.databind.ObjectMapper;
-public class allFuncs1 {
-        
+
+import java.time.Duration;
+
+public class allFuncs1{
+
     private void objectMapper() {
-           
-ObjectMapper clazz20327 = new ObjectMapper();
-            clazz20327.enableDefaultTyping(null);
+        ObjectMapper objectMapper = new ObjectMapper();
+        objectMapper.enableDefaultTyping(null);
     }
 }
