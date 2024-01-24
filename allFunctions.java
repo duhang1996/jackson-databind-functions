@@ -1,4 +1,3 @@
-import com.fasterxml.jackson.databind.ObjectMapper;
 public class allFunctions {
         
     private void objectMapper() {
@@ -415,7 +414,7 @@ com.fasterxml.jackson.databind.Module clazz18531 = new com.fasterxml.jackson.dat
 clazz18531.version();
 clazz18531.getTypeId();
 clazz18531.getModuleName();
-ObjectMapper clazz20327 = new ObjectMapper();
+com.fasterxml.jackson.databind.ObjectMapper clazz20327 = new com.fasterxml.jackson.databind.ObjectMapper();
             clazz20327.enableDefaultTyping(null);
 clazz20327.writerWithView(null);
 clazz20327.writerWithType(null);
@@ -487,9 +486,9 @@ clazz20327.findAndRegisterModules();
 clazz20327.enable(null);
 clazz20327.disableDefaultTyping(null);
 clazz20327.disable(null);
-clazz20327.defaultClassIntrospector()null;
+clazz20327.defaultClassIntrospector();
 clazz20327.createObjectNode(null);
-clazz20327.createDeserializationContext()null;
+clazz20327.createDeserializationContext();
 clazz20327.createArrayNode(null);
 clazz20327.copy();
 clazz20327.convertValue(null);
