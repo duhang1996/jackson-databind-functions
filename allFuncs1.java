@@ -416,7 +416,7 @@ clazz18531.version();
 clazz18531.getTypeId();
 clazz18531.getModuleName();
 ObjectMapper clazz20327 = new ObjectMapper();
-            clazz20327.enableDefaultTyping(null);
+            clazz20327.enableDefaultTyping();
 clazz20327.writerWithView(null);
 clazz20327.writerWithType(null);
 clazz20327.writerWithDefaultPrettyPrinter(null);
